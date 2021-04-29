@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @redetho
+- 👀 I’m interested in coding and game design!
+- 🌱 I’m currently learning game development at Facens!
+- 💞️ I’m looking to collaborate on game projects.
+- 📫 reach me at redetho@gmail.com!
